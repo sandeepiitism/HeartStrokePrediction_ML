@@ -1,7 +1,7 @@
 # Heart Stroke Classification_Machine Learning
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Build Status](https://travis-ci.org/upymake/enforce-pep8.svg?branch=master)](https://travis-ci.org/upymake/enforce-pep8)
+
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-green.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)  
 
