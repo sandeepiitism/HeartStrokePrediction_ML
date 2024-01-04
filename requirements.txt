@@ -1,0 +1,7 @@
+# pickle
+pickle-mixin
+joblib
+gunicorn
+numpy
+flask
+scikit-learn
