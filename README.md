@@ -98,6 +98,7 @@ On Linux run:
 ```bash
 python3 app.py
 ```
+![Alt text](app1.png)
 
 ## Data Set
 
